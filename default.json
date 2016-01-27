@@ -12,15 +12,15 @@
       }
     },
     {
+      "name": "body-open"
+    },
+    {
       "name": "hero-image",
       "data": {
         "url": "",
         "alt": "",
         "src": "http://placehold.it/600x250"
       }
-    },
-    {
-      "name": "body-open"
     },
     {
       "name": "one-column-open"
